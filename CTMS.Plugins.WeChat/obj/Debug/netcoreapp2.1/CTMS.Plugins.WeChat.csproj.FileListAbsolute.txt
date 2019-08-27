@@ -1,0 +1,16 @@
+E:\Projects\CTMS\CTMS.Plugins.WeChat\bin\Debug\netcoreapp2.1\CTMS.Plugins.WeChat.deps.json
+E:\Projects\CTMS\CTMS.Plugins.WeChat\bin\Debug\netcoreapp2.1\CTMS.Plugins.WeChat.dll
+E:\Projects\CTMS\CTMS.Plugins.WeChat\bin\Debug\netcoreapp2.1\CTMS.Plugins.WeChat.pdb
+E:\Projects\CTMS\CTMS.Plugins.WeChat\bin\Debug\netcoreapp2.1\CTMS.Common.dll
+E:\Projects\CTMS\CTMS.Plugins.WeChat\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Json.dll
+E:\Projects\CTMS\CTMS.Plugins.WeChat\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Projects\CTMS\CTMS.Plugins.WeChat\bin\Debug\netcoreapp2.1\CTMS.Common.pdb
+E:\Projects\CTMS\CTMS.Plugins.WeChat\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Json.xml
+E:\Projects\CTMS\CTMS.Plugins.WeChat\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DependencyInjection.xml
+E:\Projects\CTMS\CTMS.Plugins.WeChat\obj\Debug\netcoreapp2.1\CTMS.Plugins.WeChat.csprojAssemblyReference.cache
+E:\Projects\CTMS\CTMS.Plugins.WeChat\obj\Debug\netcoreapp2.1\CTMS.Plugins.WeChat.csproj.CoreCompileInputs.cache
+E:\Projects\CTMS\CTMS.Plugins.WeChat\obj\Debug\netcoreapp2.1\CTMS.Plugins.WeChat.AssemblyInfoInputs.cache
+E:\Projects\CTMS\CTMS.Plugins.WeChat\obj\Debug\netcoreapp2.1\CTMS.Plugins.WeChat.AssemblyInfo.cs
+E:\Projects\CTMS\CTMS.Plugins.WeChat\obj\Debug\netcoreapp2.1\CTMS.Plugins.WeChat.csproj.CopyComplete
+E:\Projects\CTMS\CTMS.Plugins.WeChat\obj\Debug\netcoreapp2.1\CTMS.Plugins.WeChat.dll
+E:\Projects\CTMS\CTMS.Plugins.WeChat\obj\Debug\netcoreapp2.1\CTMS.Plugins.WeChat.pdb

@@ -1,0 +1,11 @@
+E:\Projects\CTMS\CTMS.Console.Test\bin\Debug\netcoreapp2.2\CTMS.Console.Test.deps.json
+E:\Projects\CTMS\CTMS.Console.Test\bin\Debug\netcoreapp2.2\CTMS.Console.Test.runtimeconfig.json
+E:\Projects\CTMS\CTMS.Console.Test\bin\Debug\netcoreapp2.2\CTMS.Console.Test.runtimeconfig.dev.json
+E:\Projects\CTMS\CTMS.Console.Test\bin\Debug\netcoreapp2.2\CTMS.Console.Test.dll
+E:\Projects\CTMS\CTMS.Console.Test\obj\Debug\netcoreapp2.2\CTMS.Console.Test.csprojAssemblyReference.cache
+E:\Projects\CTMS\CTMS.Console.Test\obj\Debug\netcoreapp2.2\CTMS.Console.Test.csproj.CoreCompileInputs.cache
+E:\Projects\CTMS\CTMS.Console.Test\obj\Debug\netcoreapp2.2\CTMS.Console.Test.AssemblyInfoInputs.cache
+E:\Projects\CTMS\CTMS.Console.Test\obj\Debug\netcoreapp2.2\CTMS.Console.Test.AssemblyInfo.cs
+E:\Projects\CTMS\CTMS.Console.Test\bin\Debug\netcoreapp2.2\CTMS.Console.Test.pdb
+E:\Projects\CTMS\CTMS.Console.Test\obj\Debug\netcoreapp2.2\CTMS.Console.Test.dll
+E:\Projects\CTMS\CTMS.Console.Test\obj\Debug\netcoreapp2.2\CTMS.Console.Test.pdb

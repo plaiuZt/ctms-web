@@ -1,0 +1,21 @@
+2019-05-29 12:16:02：--全局异常过滤器捕获的异常--开始------------ 
+2019-05-29 12:16:02：系统编号：100101 
+2019-05-29 12:16:02：访问网址：https://localhost:44316/home/show 
+2019-05-29 12:16:02：异常信息：The view 'Show' was not found. The following locations were searched:/Views/Home/Show.cshtml/Views/Shared/Show.cshtml/Pages/Shared/Show.cshtml 
+2019-05-29 12:16:02：IP地址：192.168.100.202 
+2019-05-29 12:16:02：保存结果：True 
+2019-05-29 12:16:02：--全局异常过滤器捕获的异常--结束------------ 
+2019-05-29 12:16:07：--全局异常过滤器捕获的异常--开始------------ 
+2019-05-29 12:16:07：系统编号：100101 
+2019-05-29 12:16:07：访问网址：https://localhost:44316/home/show 
+2019-05-29 12:16:07：异常信息：The view 'Show' was not found. The following locations were searched:/Views/Home/Show.cshtml/Views/Shared/Show.cshtml/Pages/Shared/Show.cshtml 
+2019-05-29 12:16:07：IP地址：192.168.100.202 
+2019-05-29 12:16:07：保存结果：True 
+2019-05-29 12:16:07：--全局异常过滤器捕获的异常--结束------------ 
+2019-05-29 12:21:35：--全局异常过滤器捕获的异常--开始------------ 
+2019-05-29 12:21:35：系统编号：100101 
+2019-05-29 12:21:35：访问网址：https://localhost:44316/home/show 
+2019-05-29 12:21:36：异常信息：The view 'Show' was not found. The following locations were searched:/Views/Home/Show.cshtml/Views/Shared/Show.cshtml/Pages/Shared/Show.cshtml 
+2019-05-29 12:21:36：IP地址：192.168.100.202 
+2019-05-29 12:21:36：保存结果：True 
+2019-05-29 12:21:36：--全局异常过滤器捕获的异常--结束------------ 

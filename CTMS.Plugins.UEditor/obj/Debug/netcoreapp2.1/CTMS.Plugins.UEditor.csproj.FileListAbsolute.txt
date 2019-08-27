@@ -1,0 +1,12 @@
+E:\Projects\CTMS\CTMS.Plugins.UEditor\bin\Debug\netcoreapp2.1\CTMS.Plugins.UEditor.deps.json
+E:\Projects\CTMS\CTMS.Plugins.UEditor\bin\Debug\netcoreapp2.1\CTMS.Plugins.UEditor.dll
+E:\Projects\CTMS\CTMS.Plugins.UEditor\bin\Debug\netcoreapp2.1\CTMS.Plugins.UEditor.pdb
+E:\Projects\CTMS\CTMS.Plugins.UEditor\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Projects\CTMS\CTMS.Plugins.UEditor\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\Projects\CTMS\CTMS.Plugins.UEditor\obj\Debug\netcoreapp2.1\CTMS.Plugins.UEditor.csprojAssemblyReference.cache
+E:\Projects\CTMS\CTMS.Plugins.UEditor\obj\Debug\netcoreapp2.1\CTMS.Plugins.UEditor.csproj.CoreCompileInputs.cache
+E:\Projects\CTMS\CTMS.Plugins.UEditor\obj\Debug\netcoreapp2.1\CTMS.Plugins.UEditor.AssemblyInfoInputs.cache
+E:\Projects\CTMS\CTMS.Plugins.UEditor\obj\Debug\netcoreapp2.1\CTMS.Plugins.UEditor.AssemblyInfo.cs
+E:\Projects\CTMS\CTMS.Plugins.UEditor\obj\Debug\netcoreapp2.1\CTMS.Plugins.UEditor.csproj.CopyComplete
+E:\Projects\CTMS\CTMS.Plugins.UEditor\obj\Debug\netcoreapp2.1\CTMS.Plugins.UEditor.dll
+E:\Projects\CTMS\CTMS.Plugins.UEditor\obj\Debug\netcoreapp2.1\CTMS.Plugins.UEditor.pdb
